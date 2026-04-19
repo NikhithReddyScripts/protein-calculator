@@ -1,6 +1,7 @@
 import { type CalculatorInputs, type CalculatorResult, type Unit } from "./calculator";
 
-const API_BASE_URL = "http://localhost:3001";
+// Replace with your actual Cloudflare Worker URL after deployment (e.g., https://protein-calculator-api.yourname.workers.dev)
+const API_BASE_URL = "http://localhost:3002"; // Using port 3002 for local worker testing
 
 /**
  * Backend response structure (snake_case)

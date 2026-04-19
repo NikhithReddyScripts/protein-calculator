@@ -17,6 +17,8 @@
 # Misc
 /backend/node_modules
 /backend/dist
+/worker/node_modules
+/worker/dist
 .DS_Store
 *.pem
 
